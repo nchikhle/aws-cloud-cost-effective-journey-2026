@@ -41,7 +41,7 @@ Any changes should keep the same learning values:
 | Day | Topic | Related Project               | Cost Mindset | Status      |
 |---|---|-------------------------------|---|-------------|
 | Day 01 | Account Security | Account Security Setup        | Free | Completed   |
-| Day 02 | Billing, Credits, and Budget Alerts | **Billing Alerts Setup**      | Free | Planned     |
+| Day 02 | Billing, Credits, and Budget Alerts | **Billing Alerts Setup**      | Free | Completed     |
 | Day 03 | Cloud Basics | Cloud Basics Reference Notes  | Free | Planned |
 | Day 04 | IAM Basics | **IAM User and Group Setup**  | Free | Planned     |16-19 TWS
 | Day 05 | IAM Least Privilege | IAM Read-Only Access Setup    | Free | Planned     |
