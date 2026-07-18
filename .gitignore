@@ -1,0 +1,54 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# AWS credentials and secrets
+*.pem
+*.key
+*.crt
+credentials
+config
+aws_access_keys.txt
+.aws/
+
+# AWS / cloud local files
+.aws-sam/
+cdk.out/
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+*.tfvars.json
+
+# Build folders
+dist/
+build/
+target/
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Java / Maven / Gradle
+*.class
+.gradle/
+.mvn/
