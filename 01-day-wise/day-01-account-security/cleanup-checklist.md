@@ -27,7 +27,7 @@ Confirm that no unnecessary AWS resources were created during Day 1 account secu
 
 * [x] Confirm root MFA is enabled
 * [x] Attempt Billing Dashboard check
-* [ ] Recheck Billing Dashboard data after refresh
+* [x] Recheck Billing Dashboard data after refresh
 
 * [x] Confirm no EC2 instances were created
 * [x] Confirm no S3 buckets were created

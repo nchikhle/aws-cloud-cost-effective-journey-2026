@@ -30,7 +30,7 @@ Confirm that no unnecessary AWS resources were created during Day 2 billing and 
 * [x] Confirm AWS credits were received after card verification
 * [x] Create monthly AWS budget
 * [x] Configure budget alerts
-* [ ] Recheck Billing Dashboard data after refresh
+* [x] Recheck Billing Dashboard data after refresh
 
 * [x] Confirm no EC2 instances were created
 * [x] Confirm no S3 buckets were created
@@ -48,8 +48,8 @@ Confirm that no unnecessary AWS resources were created during Day 2 billing and 
 ## Billing Check
 
 | Item                     | Status                                  |
-| ------------------------ | --------------------------------------- |
-| Billing Dashboard access | Attempted                               |
+| ------------------------ |-----------------------------------------|
+| Billing Dashboard access | Attempted , still was in process        |
 | Billing data visibility  | Pending / To be confirmed after refresh |
 | AWS credits received     | $100                                    |
 | Unexpected charges found | No                                      |

@@ -153,6 +153,8 @@ cleanup-checklist.md
 
 Estimated cost: **£0 / $0**
 
+Credit Received: **$100** 
+
 No EC2, S3, Lambda, API Gateway, database, or paid application resource was created during this task.
 
 Checked the cost on billing dashboard
